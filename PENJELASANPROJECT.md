@@ -1,11 +1,17 @@
-BERIKUT ADALAH PROJECT CODING YANG TELAH SAYA KERJAKAN, DIMANA 10 DIANTARANYA MENGGUNAKAN BAHASA GOLANG, DAN SATU DIANTARANYA MENGGUNAKAN BAHASA NATIVE (JAVA)
+BERIKUT ADALAH PROJECT CODING YANG TELAH SAYA KERJAKAN, DIMANA 10 DIANTARANYA MENGGUNAKAN BAHASA GOLANG, DAN SATU DIANTARANYA MENGGUNAKAN BAHASA PHYTON
 
-2. (PLAT.GO)
+1. (calculator.py)
+: Projek kalkulator ini sangat simpel, dimana hanyanmenggunakan 4 operator perhitungan yaitu ( tambah, kurang, bagi, kali ). Belum mensupport operator perhitungan lainnya seperi eksponen, akar dan sebagainya.
+
+2. 
+
+
+3. (PLAT.GO)
 : tujuan dari projek ini adalah menjumlahkan setiap digit nomor tersebut sehingga tersisa 1 digit saja. 
 Contohnya jika anda menginput nomor plat D-26889-AQU, maka jumlah digit adalah 
 2+6+8+8+9 = 33 dan 3+3 = 6. disini saya menggunakan operator perhitungan % dan / untuk menentukan setiap digitnya.
 
-3. (GRAVITASI.GO)
+4. (GRAVITASI.GO)
 : rumus untuk menentukan posisi benda adalah 𝑦 = 𝑦0 + 𝑣𝑡 + 1/2𝑔𝑡^2
 , yang mana 𝑦 adalah posisi benda sekarang, 𝑦0 adalah posisi Ferdi saat melempar benda, 𝑣 adalah kecepatan  benda saat dilempar Ferdi, dan 𝑔 adalah percepatan grativikasi bumi, yaitu 𝑔 = 9.8 𝑚/ program ini bertujuan untuk mencetak jarak tempuh (terhadap posisi si pelempar) benda tersebut setiap detiknya, sejak awal (0 detik) s.d. detik ke-𝑛.
 

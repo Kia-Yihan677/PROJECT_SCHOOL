@@ -1,4 +1,4 @@
-BERIKUT ADALAH PROJECT CODING YANG TELAH SAYA KERJAKAN, DIMANA 12 DIANTARANYA MENGGUNAKAN BAHASA GOLANG, SATU DIANTARANYA MENGGUNAKAN BAHASA PHYTON DAN SATU NYA MENGGUNAKAN ReactNative(Js)
+BERIKUT ADALAH PROJECT CODING YANG TELAH SAYA KERJAKAN, DIMANA 12 DIANTARANYA MENGGUNAKAN BAHASA GOLANG, 1 DIANTARANYA MENGGUNAKAN BAHASA PHYTON DAN 1-NYA MENGGUNAKAN ReactNative(Js)
 
 1. (calculator.py)
 : Projek kalkulator ini sangat simpel, dimana hanyanmenggunakan 4 operator perhitungan yaitu ( tambah, kurang, bagi, kali ). Belum mensupport operator perhitungan lainnya seperi eksponen, akar dan sebagainya.

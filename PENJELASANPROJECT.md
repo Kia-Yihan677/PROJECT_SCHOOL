@@ -1,4 +1,4 @@
-BERIKUT ADALAH PROJECT CODING YANG TELAH SAYA KERJAKAN, DIMANA 10 DIANTARANYA MENGGUNAKAN BAHASA GOLANG, DAN SATU DIANTARANYA MENGGUNAKAN BAHASA NATIVE(JAVA)
+BERIKUT ADALAH PROJECT CODING YANG TELAH SAYA KERJAKAN, DIMANA 10 DIANTARANYA MENGGUNAKAN BAHASA GOLANG, DAN SATU DIANTARANYA MENGGUNAKAN BAHASA NATIVE (JAVA)
 
 2. (PLAT.GO)
 : tujuan dari projek ini adalah menjumlahkan setiap digit nomor tersebut sehingga tersisa 1 digit saja. 
@@ -20,9 +20,19 @@ Project ini menggunakan for loop (perulangan) untuk menentukan hasilnya, lalu di
 6. (CASHBACK.GO)
 : pengguna diminta untuk memasukkan 4 digit, kode ini menggunakan operator % dan / untuk memisahkan digit awal dan digit keempat, kode ini juga menggunakan tipe boolean, dimana jika digit awal sama dengan digit terakhir maka cashback akan berlaku atau dinyatakan/bernilai true.
 
-7.(FUNGSI.GO)
-: kode ini berisi rumus fungsi fx dimana baris pertama outputnya berdasarkan input (x, y) dan baris kedua outputnya berdasarkan (y, x). Hanya memasukkan nilai tidak menggunakan sifat tambahan.
+7. (FUNGSI.GO)
+: kode ini berisi rumus fungsi fx dimana baris pertama outputnya berdasarkan input (x, y) dan baris kedua outputnya berdasarkan (y, x). Hanya memasukkan nilai tidak menggunakan operator tambahan. Keluaran dan masukan merupakan bilangan riil menggunakan float64.
 
-8. 
+8. (KEEMPAT.GO)
+: Akan diminta memasukkan 2 bilangan bulat (misalkan a dan b), project ini bertujuan untuk menentukan apakah a adalah kelipatan b menggunakan operator modulus. 
+
+9. (KONVERSI.GO)
+: kode ini bertujuan untuk mengonversi satuan detik di bumi menjadi satuan detik di mars. Dimana diketahui perbedaan satuan jam, detik dan menit pada bulan mars (3600 detik di bumi setara dengan 7500 detik di mars dan 60 menit di bumi setara dengan 75 menit di mars) cara mengonversinya cukup menggunakan operator / dan %.
+
+10. (SEGITIGA.GO)
+: Jika memasukkan 3 bilangan bulat, kode ini dapat memutuskan apakah ketiga panjang tersebut dapat membentuk suatu segitiga atau tidak. Menggunakan operator if else. Jika if a+b>c && a+c>b && b+c>a maka dapat memenuhi persyaratan membentuk segitiga (segitiga apapun).
+
+11. (TAHUN.GO)
+: Tahun bumi dikatakan tahun kabisat jika dapat habis dibagi 4 dan 5 tahun namun tidak dapat habis dibagi 100. Kode ini bertujuan untuk menentukan apakah suatu tahun dikategorikan sebagai tahun kabisat menggunakan operator boolean. True jika memenuhi persyaratan tersebut. Input hanya perlu memasukkan 4 digit angka, alias tahun.
 
 

@@ -1,10 +1,10 @@
-BERIKUT ADALAH PROJECT CODING YANG TELAH SAYA KERJAKAN, DIMANA 10 DIANTARANYA MENGGUNAKAN BAHASA GOLANG, DAN SATU DIANTARANYA MENGGUNAKAN BAHASA PHYTON
+BERIKUT ADALAH PROJECT CODING YANG TELAH SAYA KERJAKAN, DIMANA 10 DIANTARANYA MENGGUNAKAN BAHASA GOLANG, SATU DIANTARANYA MENGGUNAKAN BAHASA PHYTON DAN SATU NYA MENGGUNAKAN ReactNative(Js)
 
 1. (calculator.py)
 : Projek kalkulator ini sangat simpel, dimana hanyanmenggunakan 4 operator perhitungan yaitu ( tambah, kurang, bagi, kali ). Belum mensupport operator perhitungan lainnya seperi eksponen, akar dan sebagainya.
 
-2. 
-
+2. (App.js)
+: Projek kalkulator simple namun sayangnya masih 1/4 pengerjaan.
 
 3. (PLAT.GO)
 : tujuan dari projek ini adalah menjumlahkan setiap digit nomor tersebut sehingga tersisa 1 digit saja. 

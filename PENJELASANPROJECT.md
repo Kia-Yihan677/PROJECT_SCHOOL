@@ -17,28 +17,28 @@ Contohnya jika anda menginput nomor plat D-26889-AQU, maka jumlah digit adalah
 
 Project ini menggunakan for loop (perulangan) untuk menentukan hasilnya, lalu di algoritmanya kita mendefinisikan kembali variabel v, g, dan t sebagai bilangan rill menggunakan float64.
 
-4. (STAR.GO)
+5. (STAR.GO)
 : program ini digunakan untuk menampilkan pola bintang segitiga secara terurut. Masukan berupa bilangan bulat positif yang menyatakan jumlah baris segitiga. Keluaran berupa pola bintang segitiga secara terurut sesuai dengan baris yang diinginkan. Project ini menggunakan for loop (perulangan).
 
-5. (TEL-U.GO)
+6. (TEL-U.GO)
 :  program ini  untuk mencetak <a> Telkom University <b> sebanyak n kali. Keluaran berupa 𝒏 baris tulisan <a> Telkom University <b>, yang mana nilai 𝒂 terurut membesar dari 1 hingga ke-𝒏, sedangkan nilai 𝒃 terurut menurun dari 𝒏 hingga 1. Project ini juga menggunakan for loop dimana nilai b adalah nilai yang menurun 1 angka setiap barisnya.
 
-6. (CASHBACK.GO)
+7. (CASHBACK.GO)
 : pengguna diminta untuk memasukkan 4 digit, kode ini menggunakan operator % dan / untuk memisahkan digit awal dan digit keempat, kode ini juga menggunakan tipe boolean, dimana jika digit awal sama dengan digit terakhir maka cashback akan berlaku atau dinyatakan/bernilai true.
 
-7. (FUNGSI.GO)
+8. (FUNGSI.GO)
 : kode ini berisi rumus fungsi fx dimana baris pertama outputnya berdasarkan input (x, y) dan baris kedua outputnya berdasarkan (y, x). Hanya memasukkan nilai tidak menggunakan operator tambahan. Keluaran dan masukan merupakan bilangan riil menggunakan float64.
 
-8. (KEEMPAT.GO)
+9. (KEEMPAT.GO)
 : Akan diminta memasukkan 2 bilangan bulat (misalkan a dan b), project ini bertujuan untuk menentukan apakah a adalah kelipatan b menggunakan operator modulus. 
 
-9. (KONVERSI.GO)
+10. (KONVERSI.GO)
 : kode ini bertujuan untuk mengonversi satuan detik di bumi menjadi satuan detik di mars. Dimana diketahui perbedaan satuan jam, detik dan menit pada bulan mars (3600 detik di bumi setara dengan 7500 detik di mars dan 60 menit di bumi setara dengan 75 menit di mars) cara mengonversinya cukup menggunakan operator / dan %.
 
-10. (SEGITIGA.GO)
+11. (SEGITIGA.GO)
 : Jika memasukkan 3 bilangan bulat, kode ini dapat memutuskan apakah ketiga panjang tersebut dapat membentuk suatu segitiga atau tidak. Menggunakan operator if else. Jika if a+b>c && a+c>b && b+c>a maka dapat memenuhi persyaratan membentuk segitiga (segitiga apapun).
 
-11. (SUM.GO)
+12. (SUM.GO)
 :program ini bertujuan untuk menjumlahkan bilangan yang terdapat pada 
 rentang bilangan terbesar dan terkecil (inklusif). Jadi sebelumnya kita harus menginput dua bilangan bulat yang menyatakan bilangan terbesar dan terkecil (dipisahkan dengan spasi). Lalu keluarannya berupa dua baris. Baris pertama adalah barisan bilangan dari bilangan terkecil hingga 
 tersebesar, sedangkan baris kedua adalah teks yang menaytakan total penjumlahan seluruuh bilangan pada baris pertama.

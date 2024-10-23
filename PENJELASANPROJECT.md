@@ -1,4 +1,4 @@
-BERIKUT ADALAH PROJECT CODING YANG TELAH SAYA KERJAKAN, DIMANA 10 DIANTARANYA MENGGUNAKAN BAHASA GOLANG, SATU DIANTARANYA MENGGUNAKAN BAHASA PHYTON DAN SATU NYA MENGGUNAKAN ReactNative(Js)
+BERIKUT ADALAH PROJECT CODING YANG TELAH SAYA KERJAKAN, DIMANA 12 DIANTARANYA MENGGUNAKAN BAHASA GOLANG, SATU DIANTARANYA MENGGUNAKAN BAHASA PHYTON DAN SATU NYA MENGGUNAKAN ReactNative(Js)
 
 1. (calculator.py)
 : Projek kalkulator ini sangat simpel, dimana hanyanmenggunakan 4 operator perhitungan yaitu ( tambah, kurang, bagi, kali ). Belum mensupport operator perhitungan lainnya seperi eksponen, akar dan sebagainya.
@@ -38,7 +38,16 @@ Project ini menggunakan for loop (perulangan) untuk menentukan hasilnya, lalu di
 10. (SEGITIGA.GO)
 : Jika memasukkan 3 bilangan bulat, kode ini dapat memutuskan apakah ketiga panjang tersebut dapat membentuk suatu segitiga atau tidak. Menggunakan operator if else. Jika if a+b>c && a+c>b && b+c>a maka dapat memenuhi persyaratan membentuk segitiga (segitiga apapun).
 
-11. (TAHUN.GO)
+11. (SUM.GO)
+:program ini bertujuan untuk menjumlahkan bilangan yang terdapat pada 
+rentang bilangan terbesar dan terkecil (inklusif). Jadi sebelumnya kita harus menginput dua bilangan bulat yang menyatakan bilangan terbesar dan terkecil (dipisahkan dengan spasi). Lalu keluarannya berupa dua baris. Baris pertama adalah barisan bilangan dari bilangan terkecil hingga 
+tersebesar, sedangkan baris kedua adalah teks yang menaytakan total penjumlahan seluruuh bilangan pada baris pertama.
+
+13. (TAHUN.GO)
 : Tahun bumi dikatakan tahun kabisat jika dapat habis dibagi 4 dan 5 tahun namun tidak dapat habis dibagi 100. Kode ini bertujuan untuk menentukan apakah suatu tahun dikategorikan sebagai tahun kabisat menggunakan operator boolean. True jika memenuhi persyaratan tersebut. Input hanya perlu memasukkan 4 digit angka, alias tahun.
+
+14. (INVESTOR.GO)
+: project ini bertujuan untuk mengetahui total uang yang dimiliki oleh seorang investor setelah 10 tahun, dengan bunga yang diakumulasikan setiap tahunnya yaitu 5% per-tahunnya, kita akan menginput angka yang diyakini sebagai modal investor tersebut dalam bentuk bilangan bulat, lalu program ini akan otomatis menghitung total yang diperoleh investor tiap tahunnya (dari tahun pertama hingga tahun 10).
+menghitung total uang tiap tahunnya selama 10 tahun
 
 
